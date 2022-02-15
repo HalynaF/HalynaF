@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HalynaF
+- 👋 Hi, I’m Halyna
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Python SQL Data analysis
 - 💞️ I’m looking to collaborate on my first project
